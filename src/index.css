@@ -59,3 +59,9 @@ main {
     border: none;
     cursor: pointer;
 }
+
+.meme--image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
